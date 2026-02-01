@@ -49,7 +49,7 @@
     "hardhat": "^3.0.0",
     "hardhat-typechain": "^0.3.5",
     "hardhat-watcher": "^2.2.0",
-    "is-svg": "^5.1.0",
+    "is-svg": "^6.0.0",
     "mocha": "^11.0.1",
     "mocha-chai-jest-snapshot": "^1.1.5",
     "prettier": "^2.0.5",
